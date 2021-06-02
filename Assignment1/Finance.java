@@ -76,7 +76,7 @@ public class Finance {
 		insuransCost = 5800;
 		
 		totalExpenses = costofUtilities + advertisement + repair_maintenanceExpenses + comunicationExpenses + 
-					    rentExpenses + otherExpenses + employeeSalaries + employeeWages + employeeBenefits  + insuransCost;
+				rentExpenses + otherExpenses + employeeSalaries + employeeWages + employeeBenefits  + insuransCost;
 			
 		System.out.println("Total expenses for one year is " + df2.format(totalExpenses));
 	}
