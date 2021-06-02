@@ -32,8 +32,8 @@ public class AdvertisementNMarketing {
 	private void type_of_Advertising() {
 		System.out.println("\n**********************************ADVERTISING**********************************");
 		System.out.println("There are two types of advertisement" + 
-						   "\nType 1 is Mobile Advertising on social media. Example: Facebook" + 
-						   "\nType 2 is Print Advertising on print media. Example: Brochure");
+				   "\nType 1 is Mobile Advertising on social media. Example: Facebook" + 
+				   "\nType 2 is Print Advertising on print media. Example: Brochure");
 	}
 	
 	private void mobileAdvertising() {
@@ -44,17 +44,17 @@ public class AdvertisementNMarketing {
 		System.out.println("LUCKY DRAW IS HERE FOR YOU !!");
 		System.out.println("\nThe price for 4 days 3 nights is ONLY RM8000!! Hurry up!!");
 		System.out.println("Price Packs included: " 
-						   + "\n- Spa Ticket"
-					       + "\n- Herbal Bath Ticket"
-						   + "\n- Check in five-star hotel : Sangerilla Hotel"
-					       + "\n- Dive and shark interaction"
-						   + "\n- Experience kayaking");
+				 + "\n- Spa Ticket"
+			         + "\n- Herbal Bath Ticket"
+			         + "\n- Check in five-star hotel : Sangerilla Hotel"
+				 + "\n- Dive and shark interaction"
+			         + "\n- Experience kayaking");
 					       
 		System.out.println("\nRules : "
-						   + "\nStep 1 : Like our page"
-					       + "\nStep 2 : Follow us" 
-						   + "\nStep 3 : Tag 3 friends in comment section" 
-					       + "\nStep 4 : Share this story and tag us in your story.");
+			         + "\nStep 1 : Like our page"
+				 + "\nStep 2 : Follow us" 
+				 + "\nStep 3 : Tag 3 friends in comment section" 
+				 + "\nStep 4 : Share this story and tag us in your story.");
 				
 		System.out.println("\n***ONLY 1 winner will be chosen. Winner will be contacted on after 10 days when the activity is end. GOOD LUCK!");
 		
@@ -69,12 +69,12 @@ public class AdvertisementNMarketing {
 		System.out.println("Just come to our website and put down your question.");
 					       	
 		System.out.println("\nHow to consult :"
-				         + "\nOption 1 : Visit our website. -> www.metitravel.com.my" 
-				         + "\nOption 2 : Email to us. -> metitravel@yahoo.com" 
-				         + "\nOption 3 : Call us at the appointment time. -> 03-5879460");
+				 + "\nOption 1 : Visit our website. -> www.metitravel.com.my" 
+			         + "\nOption 2 : Email to us. -> metitravel@yahoo.com" 
+				 + "\nOption 3 : Call us at the appointment time. -> 03-5879460");
 	    
 		System.out.println("\nWe will make sure our treatment is " + quality);
 		System.out.println("Welcome to all of you to make a consult and we will give you a satisfactory answer. "
-				         + "\nThank You.");
+				 + "\nThank You.");
 	}
 }
