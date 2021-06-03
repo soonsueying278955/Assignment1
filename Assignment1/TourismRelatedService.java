@@ -4,7 +4,7 @@ package Assignment1;
 public class TourismRelatedService {
 	
 	// 1.2 Pre-Define Class
-	String companyName, address, website, email, timeofbusiness; 
+	String companyName, address, website, email, timeofbusiness, facebook, insta; 
 	int establishYear, Telno;
 	
 	// 1.4 Constructor with no argument
